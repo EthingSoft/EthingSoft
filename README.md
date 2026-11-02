@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="EthingSoft — practical software resources" width="100%">
+<img src="assets/profile-banner.svg" alt="EthingSoft — officially authorized software resources" width="100%">
 
 ### Officially authorized software resources for Windows
 
