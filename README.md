@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner-everything.svg" alt="EthingSoft — software, guides and downloads" width="100%">
+<img src="assets/profile-banner-everything-final.svg" alt="Everything — software, guides and downloads" width="100%">
 
 ### Software, guides & downloads
 
