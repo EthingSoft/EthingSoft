@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Everything</title>
+  <desc id="desc">Software, guides and downloads</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10233f"/>
+      <stop offset="1" stop-color="#1b4770"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9be7ff"/>
+      <stop offset="1" stop-color="#64a9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#background)"/>
+  <circle cx="1020" cy="40" r="220" fill="#ffffff" opacity=".035"/>
+  <circle cx="1070" cy="278" r="148" fill="#69c8ff" opacity=".08"/>
+  <rect x="76" y="64" width="116" height="116" rx="32" fill="#ffffff" opacity=".1" stroke="#ffffff" stroke-opacity=".22"/>
+  <circle cx="134" cy="122" r="36" fill="url(#accent)" opacity=".92"/>
+  <ellipse cx="134" cy="122" rx="48" ry="19" transform="rotate(-38 134 122)" fill="none" stroke="#fff" stroke-opacity=".72" stroke-width="3"/>
+  <path d="m134 99 6 17 17 6-17 6-6 17-6-17-17-6 17-6z" fill="#fff"/>
+  <circle cx="174" cy="91" r="4" fill="#a8eeff"/>
+  <text x="226" y="119" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-.8">Everything</text>
+  <text x="228" y="165" fill="#d3e2f2" font-family="Segoe UI,Arial,sans-serif" font-size="23">Software, guides &amp; downloads</text>
+  <rect x="228" y="202" width="8" height="8" rx="4" fill="#82d8ff"/>
+  <text x="250" y="212" fill="#b9cde0" font-family="Segoe UI,Arial,sans-serif" font-size="16">TOOLS</text>
+  <circle cx="326" cy="207" r="3" fill="#7399ba"/>
+  <text x="344" y="212" fill="#b9cde0" font-family="Segoe UI,Arial,sans-serif" font-size="16">GUIDES</text>
+  <circle cx="432" cy="207" r="3" fill="#7399ba"/>
+  <text x="450" y="212" fill="#b9cde0" font-family="Segoe UI,Arial,sans-serif" font-size="16">RELEASES</text>
+</svg>
