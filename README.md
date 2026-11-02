@@ -1,31 +1,41 @@
 <div align="center">
 
-# EthingSoft
+<img src="assets/profile-banner.svg" alt="EthingSoft — practical software resources" width="100%">
 
-### Official Everything downloads for Windows
+### Officially authorized software resources for Windows
 
-Officially authorized GitHub distribution of the stable Everything installers for Windows.
+Officially authorized downloads, clear release details, and practical guides.
 
-| 🔎 File search | 🪟 Windows | 📦 Official installers |
-| --- | --- | --- |
-| Everything | Desktop utility | x64 and x86 |
-
-[**Explore Everything**](https://EthingSoft.github.io/)
+[Explore the website](https://ethingsoft.github.io/)
 &nbsp; · &nbsp;
-[Download x64 ZIP](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip)
-&nbsp; · &nbsp;
-[Release history](https://github.com/EthingSoft/everything-download/releases)
+[Browse projects](https://github.com/EthingSoft?tab=repositories)
 
 </div>
 
 ---
 
-## Official Everything installers
+## Featured project
 
-Everything searches files and folders by name through a fast, indexed interface. The official GitHub release contains the original **Everything 1.4.1.1032 stable installers** for x64 and x86 Windows.
+### Everything for Windows
 
-- [Get the x64 installer ZIP](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip)
-- [Get the x86 installer ZIP](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip)
-- [Read the product guide and license information](https://github.com/EthingSoft/everything-download#readme)
+An officially authorized source for Everything, the fast filename search utility. Find separate x64 and x86 installer ZIPs, release information, and installation help.
 
-Everything is copyright © 2018 David Carpenter and is distributed under the license included with the package. EthingSoft provides this authorized GitHub distribution; the original copyright and publisher notices remain with the software.
+| Downloads | Project links |
+| --- | --- |
+| [Windows x64](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip) · [Windows x86](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip) | [Project guide](https://github.com/EthingSoft/everything-download) · [All releases](https://github.com/EthingSoft/everything-download/releases) · [Download page](https://ethingsoft.github.io/) |
+
+---
+
+## What you'll find here
+
+- **Windows tools** — straightforward pages for exploring selected software.
+- **Useful details** — architecture, version, installation steps, and release notes.
+- **Transparent downloads** — package contents and checksums where available.
+
+Please review the publisher information and license included with each software release.
+
+<div align="center">
+
+<sub>Explore the <a href="https://github.com/EthingSoft?tab=repositories">EthingSoft repositories</a></sub>
+
+</div>
